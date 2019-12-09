@@ -1,5 +1,5 @@
 //path to your world.js script file
-var path = "C:/WorldPainter/Script/"; //Use "/" instead of "\"
+var path = "C:/Users/cawal/Desktop/MinecraftEarthMap-master/world.js"; //Use "/" instead of "\"
 //Be sure you have all images, lavers, etc. from the GitHub project.
 //When you set the path to "C:/WorldPainter/Script/", be sure all files are inside this folder on your PC!
 
